@@ -122,6 +122,7 @@ var games = {
     "mysteryred":"Pokemon Mystery Dungeon Red",
     "pokemonruby":"Pokemon Ruby",
     "pokemonsapphire":"Pokemon Sapphire",
+    "pokemonsunmoon":"Pokemon Sun&Moon",
     "pokemonred":"Pokemon Fire Red",
     "pokemonlp":"Pokemon Light Platinum (Ruby Mod)",
     "gaia":"Pokemon Gaia (Fire Red Mod)",
