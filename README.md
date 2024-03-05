@@ -1,8 +1,3 @@
-# Welcome to the GBA emulator
+#AgbEMU, a free online GBA emulator.
 
-GBA Emulator is a free, online GBA emulator with 100+ games to enjoy!
-
-# Credits
-
-Clashman
-
+Open-Source fork of unblockedphs' GBA Emulator!
