@@ -6,7 +6,8 @@
         <script>
         const currentUrl = window.location.href;
         console.log(currentUrl)
-        if (currentUrl = "https://realtherealer.github.io/emuAEagb/launcher.html") {
+        let position = currentUrl.search(/emuaeagb/i);
+        if (position != -1) {
             console.log("hello ea build")
         }
         </script>
